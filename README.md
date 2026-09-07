@@ -15,7 +15,7 @@
 ## 01 / About
 
 ```text
-role       UI/UX Designer + IT Support
+role       UI/UX Designer + Full-Stack Developer
 study      D3 Teknik Informatika — Politeknik Negeri Pontianak
 focus      Full-stack · AI · IoT · Product Design
 ```
